@@ -1,5 +1,13 @@
 # Changelog
 
+## [3.2.1](https://github.com/Loginllama/loginllama.js/compare/loginllama-v3.2.0...loginllama-v3.2.1) (2026-11-25)
+
+
+### Bug Fixes
+
+* **security:** override transitive minimatch to &gt;=11.0.1 ([#210](https://github.com/Loginllama/loginllama.js/issues/210)) ([49a2119](https://github.com/Loginllama/loginllama.js/commit/49a21191e68a1b9b282daa33db067bfef7e49ee4))
+* **security:** override transitive minimatch to &gt;=11.0.1 ([#210](https://github.com/Loginllama/loginllama.js/issues/210)) ([beb51f5](https://github.com/Loginllama/loginllama.js/commit/beb51f5835c7c59e2d89065f30472c3246671504))
+
 ## [3.2.0](https://github.com/Loginllama/loginllama.js/compare/loginllama-v3.1.0...loginllama-v3.2.0) (2026-11-24)
 
 
